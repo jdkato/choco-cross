@@ -1,4 +1,4 @@
-FROM ghcr.io/goreleaser/goreleaser-cross:v1.20.2
+FROM ghcr.io/goreleaser/goreleaser-cross:v1.21.5
 
 ARG CHOCOLATEY_VERSION=1.3.1
 
